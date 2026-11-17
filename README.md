@@ -19,6 +19,6 @@
 * 
 
 ### Diapositivas
-* [Presentación de la Fase 1](https://drive.google.com/file/d/1-WFlwAu90cOmDPwzY65fNGL8e5xSJE0l/view?usp=sharing)
-* [Presentación de la Fase 2](https://drive.google.com/file/d/1lVH0S8fG6E8P-4f9q71KyqVh-F_XW3ub/view?usp=sharing)
-* [Presentación de la Fase 3](https://drive.google.com/file/d/1G7flVjZm8WRpVDad8MBxlp5ngbUVMVZz/view?usp=sharing)
+* [Presentación de la Fase 1]()
+* [Presentación de la Fase 2](https://drive.google.com/file/d/1erTDAQ74qGBg7PTOFHci3JCJnd1NabQ5/view?usp=sharing)
+* [Presentación de la Fase 3](https://drive.google.com/file/d/1U6TClnxDzhftv3I0cC2WUp5h2byI7uNX/view?usp=sharing)
