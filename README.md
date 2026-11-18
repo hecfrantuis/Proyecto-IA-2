@@ -1,5 +1,6 @@
 # Proyecto-IA-2
-## **Recomendación de cortes de cabello mediante clasificación de forma de rostro con aprendizaje profundo**
+## **FaceCut AI**
+Recomendación de cortes de cabello mediante clasificación de forma de rostro con aprendizaje profundo
 
 ![banner](https://drive.google.com/uc?export=view&id=1AbDBMofOUU0Kp9NY5yuT6TAIp0g1errC)
 
