@@ -1,5 +1,5 @@
 # Proyecto-IA-2
-## **Clasificación automática de tipos de acné facial**
+## **Recomendación de cortes de cabello mediante clasificación de forma de rostro con aprendizaje profundo**
 
 ![banner](https://drive.google.com/uc?export=view&id=1AbDBMofOUU0Kp9NY5yuT6TAIp0g1errC)
 
@@ -7,7 +7,7 @@
 * César David Ascencio, Carlos Andrés Gutiérrez y Hector Julian Franco.
 
 ## **Objetivos**
-
+Desarrollar un sistema que clasifique la forma del rostro masculino (redondo, rectangular, ovalado o cuadrado) mediante un ensamble de modelos FaceNet y, a partir de ella, recomiende cortes de cabello, largo superior y degradados con un motor de reglas basado en guías de barbería.
 
 ## **Dataset**
 * [Rostros (Test) Dataset Image](https://drive.google.com/drive/folders/1bR6aJkKWKtBX-33bhAo7g3UIKJpXs54S?usp=sharing)
