@@ -4,7 +4,7 @@
 ![banner](https://drive.google.com/uc?export=view&id=1AbDBMofOUU0Kp9NY5yuT6TAIp0g1errC)
 
 ## **Autores**
-* César David Ascencio, Carlos Andrés Gutiérrez y Hector Julian Franco Trujillo.
+* César David Ascencio, Carlos Andrés Gutiérrez y Hector Julian Franco.
 
 ## **Objetivos**
 
