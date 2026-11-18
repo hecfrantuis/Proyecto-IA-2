@@ -15,8 +15,8 @@
 
 ## **Estados del arte utilizados**
 * Face Shape Classification Based on MTCNN and FaceNet
-* 
-* 
+* VGG16
+* Inception_V3
 
 ### Diapositivas
 * [Presentación de la Fase 1](https://drive.google.com/file/d/1Af0X5xsSQHEwop9r5TsrDeemPXDYV5TK/view?usp=sharing)
