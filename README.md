@@ -1,5 +1,5 @@
 # Proyecto-IA-2
-# **Clasificación automática de tipos de acné facial**
+## **Clasificación automática de tipos de acné facial**
 
 ![banner](https://drive.google.com/uc?export=view&id=1AbDBMofOUU0Kp9NY5yuT6TAIp0g1errC)
 
